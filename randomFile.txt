@@ -2,3 +2,5 @@ Doing work on feature 0.
 Fixing a big in the project.
 
 Opening the project in VS.
+
+Creating a new feature.
